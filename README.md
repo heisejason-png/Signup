@@ -12,5 +12,5 @@ After that, you can find our repositories here:
 *  [Unreal Tournament](https://github.com/EpicGames/UnrealTournament)
   
 (Note that you must be signed into GitHub for these links to work.)
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
